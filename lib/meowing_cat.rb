@@ -1,5 +1,5 @@
 class Cat
-  def name
+  def name=(name)
   attr_accessor :name
 end
 
